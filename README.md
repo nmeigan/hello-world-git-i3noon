@@ -6,3 +6,5 @@ Making changes
 3
 4
 5
+
+add more comments t readme file
