@@ -1,0 +1,6 @@
+#ignore local files
+*.tmp
+*.back
+
+#ignore temp direcory
+/tmp
